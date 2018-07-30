@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesEstimatorTool", "SalesEstimatorTool\SalesEstimatorTool.csproj", "{A41DAAD3-D5F4-4B09-A59F-0B4E2596C5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesEstimatorTool.Data", "SalesEstimatorTool.Data\SalesEstimatorTool.Data.csproj", "{48DA116B-915E-49EC-B863-F7163F3363D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesEstimatorTool.Data.Access", "SalesEstimatorTool.Data.Access\SalesEstimatorTool.Data.Access.csproj", "{F1E274F0-96C3-40A3-AF61-69BBBE2DE57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesEstimatorTool.Business", "SalesEstimatorTool.Business\SalesEstimatorTool.Business.csproj", "{20678550-C054-41B4-B677-64AA5808A505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesEstimatorTool.Satelite", "SalesEstimatorTool.Satelite\SalesEstimatorTool.Satelite.csproj", "{A4BBB83B-B591-4356-A046-D4032FC57187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41DAAD3-D5F4-4B09-A59F-0B4E2596C5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41DAAD3-D5F4-4B09-A59F-0B4E2596C5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41DAAD3-D5F4-4B09-A59F-0B4E2596C5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41DAAD3-D5F4-4B09-A59F-0B4E2596C5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DA116B-915E-49EC-B863-F7163F3363D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DA116B-915E-49EC-B863-F7163F3363D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DA116B-915E-49EC-B863-F7163F3363D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DA116B-915E-49EC-B863-F7163F3363D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E274F0-96C3-40A3-AF61-69BBBE2DE57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E274F0-96C3-40A3-AF61-69BBBE2DE57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E274F0-96C3-40A3-AF61-69BBBE2DE57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E274F0-96C3-40A3-AF61-69BBBE2DE57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20678550-C054-41B4-B677-64AA5808A505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20678550-C054-41B4-B677-64AA5808A505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20678550-C054-41B4-B677-64AA5808A505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20678550-C054-41B4-B677-64AA5808A505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BBB83B-B591-4356-A046-D4032FC57187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BBB83B-B591-4356-A046-D4032FC57187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BBB83B-B591-4356-A046-D4032FC57187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BBB83B-B591-4356-A046-D4032FC57187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
